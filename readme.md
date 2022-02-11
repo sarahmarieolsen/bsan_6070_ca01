@@ -1,1 +1,2 @@
-
+This project explores the levels of four key pollutants in India, NO2, SO2, rspm, and spm. The data is first cleaned, then examined, then visualized into simple graphs. The first set of graphs measure the level of each chemical and are separated by state. 
+Next, data from a state of interest, Andhra Pradesh, is isolated. Pollutant levels for each pollutant in Andhra Pradesh are measured across the years 1995 through 2015 and the overall pollution level trends are observed.
